@@ -1,0 +1,15 @@
+#class function points
+
+edu.wit.cs.comp1000.grading.PA7aGrading testReadIntoArray 15
+edu.wit.cs.comp1000.grading.PA7aGrading testPrintAboveAverage 15
+edu.wit.cs.comp1000.grading.PA7aGrading testPrintAboveAverage2 5
+edu.wit.cs.comp1000.grading.PA7aGrading testSequence 10
+edu.wit.cs.comp1000.grading.PA7aGrading testSequence2 5
+
+edu.wit.cs.comp1000.grading.PA7bGrading testEmpty 5
+edu.wit.cs.comp1000.grading.PA7bGrading testZero 5
+edu.wit.cs.comp1000.grading.PA7bGrading testLettersLower 5
+edu.wit.cs.comp1000.grading.PA7bGrading testLettersUpper 5
+edu.wit.cs.comp1000.grading.PA7bGrading testLettersMixed 10
+edu.wit.cs.comp1000.grading.PA7bGrading testHelloWorld 10
+edu.wit.cs.comp1000.grading.PA7bGrading testAll 10
